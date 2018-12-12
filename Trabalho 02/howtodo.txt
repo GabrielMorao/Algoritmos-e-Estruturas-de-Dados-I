@@ -1,0 +1,10 @@
+O programa (arquivos TAD e main) foi desenvolvido na IDE CodeBlocks versão 17.12 rev 11256 (2017-12-28 10:44:41) gcc 5.1.0 Windows/unicode - 32 bit.
+Após finalizado, o programa foi rodado em sistema Linux - Ubuntu através de uma maquina virtual utilizando o programa Virtualbox.
+
+Os arquivos de código .c e .h se encontram na pasta "Projeto 02 - Final".
+
+Para compilar o programa rodar a seguinte linha:
+gcc -o exec busca_bin.c lo.c los.c abb.c avl.c lfreq.c main.c
+
+Após compilação, a fim de se executar o programa, rodar a seguinte linha:
+./exec
