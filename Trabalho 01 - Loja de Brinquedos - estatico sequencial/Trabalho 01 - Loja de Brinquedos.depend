@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1538828220 source:c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\icc ii\projeto 1 icc-ii\trabalho 01 - loja de brinquedos\fila.c
+	<stdlib.h>
+	"fila.h"
+
+1538828221 c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\icc ii\projeto 1 icc-ii\trabalho 01 - loja de brinquedos\fila.h
+
+1538853084 source:c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\icc ii\projeto 1 icc-ii\trabalho 01 - loja de brinquedos\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1538852838 c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\icc ii\projeto 1 icc-ii\trabalho 01 - loja de brinquedos\lista.h
+	<stdio.h>
+
+1538828221 source:c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\icc ii\projeto 1 icc-ii\trabalho 01 - loja de brinquedos\pilha.c
+	<stdlib.h>
+	"pilha.h"
+
+1538828221 c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\icc ii\projeto 1 icc-ii\trabalho 01 - loja de brinquedos\pilha.h
+
+1538853069 source:c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\icc ii\projeto 1 icc-ii\trabalho 01 - loja de brinquedos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1539189952 source:c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\estrutura de dados i\trabalho 01 - loja de brinquedos\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1539143163 c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\estrutura de dados i\trabalho 01 - loja de brinquedos\fila.h
+	"pilha.h"
+
+1539038838 source:c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\estrutura de dados i\trabalho 01 - loja de brinquedos\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1538937372 c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\estrutura de dados i\trabalho 01 - loja de brinquedos\lista.h
+	<stdio.h>
+
+1539189056 source:c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\estrutura de dados i\trabalho 01 - loja de brinquedos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+
+1538940596 source:c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\estrutura de dados i\trabalho 01 - loja de brinquedos\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1538941159 c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\estrutura de dados i\trabalho 01 - loja de brinquedos\pilha.h
+	<stdio.h>
+	"lista.h"
+
+1540177976 source:c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\estrutura de dados i\trabalho 01 - loja de brinquedos - estatico sequencial\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1540262097 c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\estrutura de dados i\trabalho 01 - loja de brinquedos - estatico sequencial\fila.h
+	<stdio.h>
+	"pilha.h"
+
+1540309505 c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\estrutura de dados i\trabalho 01 - loja de brinquedos - estatico sequencial\pilha.h
+	"lista.h"
+
+1540262050 c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\estrutura de dados i\trabalho 01 - loja de brinquedos - estatico sequencial\lista.h
+	<stdio.h>
+
+1540146367 source:c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\estrutura de dados i\trabalho 01 - loja de brinquedos - estatico sequencial\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1540309502 source:c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\estrutura de dados i\trabalho 01 - loja de brinquedos - estatico sequencial\pilha.c
+	<stdlib.h>
+	"pilha.h"
+
+1540316367 source:c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\estrutura de dados i\trabalho 01 - loja de brinquedos - estatico sequencial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+
+1540261992 c:\users\pichau\desktop\gabriel\usp\sistemas de informação\segundo semestre\estrutura de dados i\trabalho 01 - loja de brinquedos - estatico sequencial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+
